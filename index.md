@@ -1,24 +1,19 @@
-# ReSell — Legal
+# ReSell Legal
 
-**Owner/Operator:** Scott Cote (Individual / Sole Proprietor)  
-**Operating Location:** Keene, New Hampshire, USA  
-**Contact:** [email pending to be updated]  
-**Effective Date:** [YYYY-MM-DD]
+Effective date: 2026-02-13
 
-Welcome to ReSell. ReSell is a marketplace platform that lets users post items for sale and message each other to coordinate local pickup. ReSell does not process payments and does not ship items.
+These documents apply to the ReSell mobile application (the “App”).
 
-## Policies
+## Legal documents
 
-- **Privacy Policy:** ./privacy-policy.md  
-- **Terms of Service:** ./terms-of-service.md  
-- **Community Guidelines:** ./community-guidelines.md  
-- **Account Deletion:** ./account-deletion.md
+- [Privacy Policy](./privacy-policy.md)
+- [Terms of Service](./terms-of-service.md)
+- [Community Guidelines](./community-guidelines.md)
+- [Account Deletion](./account-deletion.md)
 
-## Quick Summary (Non-binding)
+## Support / Contact
 
-- **18+ only:** You must be at least 18 years old to use ReSell.
-- **No payments in-app:** Buyers and sellers handle payment and pickup directly with each other.
-- **We are a platform:** Users are responsible for listings, communications, and transactions.
-- **Moderation:** We can remove content, hide listings, and restrict/disable accounts for violations.
+Support email: **support@resell.app** *(pending - will be active before public store release)*
 
-> This page is a convenience overview only. The linked policies control.
+If you need help with account access, safety issues, or content reports, use the support email above.
+
