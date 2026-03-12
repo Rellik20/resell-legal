@@ -4,7 +4,7 @@ title: Terms of Service
 
 # Terms of Service
 
-**Effective date:** February 13, 2026  
+**Effective date:** March 12, 2026  
 **Operator:** Scott Cote (“ReSell”, “we”, “us”)  
 **Contact:** resell21126@gmail.com
 
@@ -15,15 +15,16 @@ If you do not agree, do not use the Service.
 ## 1. Who we are and what we do
 
 ReSell is a user-generated content marketplace platform that allows users to:
-- Post listings for items and services (where permitted)
+- Post listings for permitted items
 - Upload photos and descriptions
 - Message other users
+- Report and block users or content in-app
 
 **ReSell is a listing and messaging platform only.** ReSell does not:
 - Process payments
 - Provide escrow
-- Guarantee identities, item condition, legality, or delivery
-- Mediate disputes, refunds, or chargebacks
+- Guarantee identities, item condition, legality, ownership, or delivery
+- Mediate all disputes, refunds, or chargebacks
 - Provide shipping services
 
 All transactions are arranged directly between users at their own risk.
@@ -37,29 +38,31 @@ You must be at least **18 years old** to use ReSell. By using the Service, you r
 - You must provide a valid email address and keep it current.
 - You are responsible for all activity under your account.
 - You must keep your credentials confidential and notify us if you suspect unauthorized access.
-- We may suspend or disable accounts for policy violations, safety risks, or suspected fraud.
+- ReSell may assign your account a username and an internal ReSell User ID for account, support, and moderation purposes.
+- We may suspend, restrict, or disable accounts for policy violations, safety risks, or suspected fraud.
 
 ## 4. User content and conduct
 
 ### 4.1 Your content
-You are responsible for all content you post or send, including listings, photos, and messages (“User Content”). You represent that:
+You are responsible for all content you post, upload, attach, or send, including listings, photos, screenshots attached to reports, and messages (“User Content”). You represent that:
 - You own or have rights to post the content
 - Your content is accurate and not misleading
-- Your content complies with these Terms and our Community Guidelines
+- Your content complies with these Terms, our Community Guidelines, and applicable law
 
 ### 4.2 License to operate the Service
-You grant ReSell a non-exclusive, worldwide, royalty-free license to host, store, reproduce, display, and distribute your User Content solely for operating, improving, and providing the Service (including showing listings to other users and delivering messages).
+You grant ReSell a non-exclusive, worldwide, royalty-free license to host, store, reproduce, display, and distribute your User Content solely for operating, improving, securing, moderating, and providing the Service.
 
 ### 4.3 Prohibited conduct
 You may not:
 - Use the Service for illegal activity or to violate any law or regulation
 - Post prohibited items or content (see Section 5 and Community Guidelines)
-- Harass, threaten, stalk, or intimidate others
+- Harass, threaten, stalk, intimidate, or abuse others
 - Impersonate any person or entity or misrepresent affiliation
-- Attempt to solicit sensitive personal info (passwords, SSNs, banking info)
+- Attempt to solicit sensitive personal information (passwords, SSNs, banking info, government IDs)
 - Post spam, scams, fraudulent listings, or deceptive content
 - Circumvent enforcement actions or create accounts to evade bans
-- Reverse engineer, disrupt, or interfere with the Service or security features
+- Interfere with the Service, moderation tools, or security features
+- Submit false or abusive reports
 
 ## 5. Prohibited items and content (strict)
 
@@ -67,9 +70,9 @@ You may not list, sell, request, or facilitate transactions involving:
 
 ### 5.1 Illegal, regulated, or dangerous goods
 - **Illegal drugs** or controlled substances, drug paraphernalia, or instructions to obtain/manufacture them
-- **Weapons** of any kind (including firearms, ammunition, gun parts, silencers, explosives, or weapons accessories intended to cause harm)
+- **Weapons** of any kind, including firearms, ammunition, gun parts, silencers, explosives, or items intended to cause harm
 - **Stolen goods** or items suspected to be stolen
-- **Counterfeit** items, replicas, or items infringing intellectual property rights
+- **Counterfeit** items, replicas presented as authentic, or items infringing intellectual property rights
 - **Hazardous materials** (explosives, toxic chemicals, poisons, certain pesticides, radioactive materials)
 - **Tobacco, vaping products, nicotine products**
 - **Alcohol**
@@ -78,7 +81,7 @@ You may not list, sell, request, or facilitate transactions involving:
 ### 5.2 Sexual content, exploitation, and minors
 - Pornography, explicit nudity, sexual services, or solicitation
 - Any content involving minors in sexual contexts
-- Exploitation, grooming, or trafficking-related content
+- Exploitation, grooming, trafficking-related content, or child sexual abuse material
 
 ### 5.3 Hate, violence, and harassment
 - Hate speech or content that promotes violence, discrimination, or harassment
@@ -92,7 +95,7 @@ You may not list, sell, request, or facilitate transactions involving:
 
 ## 6. Safety and transaction guidance (user responsibility)
 
-Because ReSell does not handle payments or verify users:
+Because ReSell does not handle payments or verify all users:
 - Meet in public places when possible.
 - Do not share sensitive information in chat.
 - Inspect items before paying.
@@ -102,22 +105,31 @@ Because ReSell does not handle payments or verify users:
 ## 7. Moderation, enforcement, and removals
 
 We may, at any time and in our sole discretion:
-- Remove or restrict content
-- Hide listings
-- Suspend, disable, or terminate accounts
-- Limit messaging
-- Preserve or disclose information to comply with law or protect safety
+- Remove, hide, restrict, or preserve content
+- Hide listings or limit visibility
+- Remove or restrict messaging features
+- Restrict, suspend, soft-delete, disable, or terminate accounts
+- Preserve evidence, reports, or moderation history for safety and compliance
+- Disclose information to comply with law or protect safety
 
-We are not obligated to monitor all content, but we may review content and messages when necessary for safety, abuse prevention, policy enforcement, and legal compliance.
+We are not obligated to monitor all content, but we may review listings, messages, reports, screenshots attached to reports, and related account activity when necessary for safety, abuse prevention, policy enforcement, and legal compliance.
 
-## 8. Reporting and support
+## 8. Reporting, blocking, and support
 
-You can report issues by contacting: **resell21126@gmail.com**.  
-We may request additional information to investigate. False reports or abuse of reporting may result in enforcement action.
+ReSell provides:
+- in-app tools to report listings or users
+- in-app tools to block users
+- published support contact information
+
+Users may be asked to choose a report category and may optionally attach screenshots or other supporting images when submitting a report.
+
+You can also contact: **resell21126@gmail.com**
+
+We may request additional information to investigate. False reports or abuse of reporting tools may result in enforcement action.
 
 ## 9. Intellectual property
 
-ReSell and its logos and app design are owned by Scott Cote or licensors and are protected by applicable laws. You may not copy, modify, or distribute our materials except as allowed by law.
+ReSell and its logos, app design, and related materials are owned by Scott Cote or licensors and are protected by applicable laws. You may not copy, modify, or distribute our materials except as allowed by law.
 
 ## 10. Disclaimers (no warranties)
 
@@ -127,7 +139,7 @@ We do not guarantee:
 - Listings are accurate or lawful
 - Users are who they claim to be
 - Transactions will be completed safely or successfully
-- The Service will be uninterrupted or error-free
+- The Service will be uninterrupted, secure, or error-free
 
 ## 11. Limitation of liability
 
@@ -149,7 +161,7 @@ You agree to defend, indemnify, and hold harmless ReSell and its operator from a
 
 ## 13. Termination
 
-You may stop using the Service at any time. You may delete your account in-app. We may suspend or terminate access at any time for violations or safety reasons.
+You may stop using the Service at any time. You may delete your account in-app. We may suspend or terminate access at any time for violations, safety reasons, fraud concerns, or legal compliance.
 
 ## 14. Governing law
 

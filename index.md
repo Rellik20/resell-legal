@@ -4,11 +4,11 @@ title: ReSell Legal & Safety
 
 # ReSell Legal & Safety
 
-**Effective date:** February 13, 2026  
+**Effective date:** March 12, 2026  
 **Operator:** Scott Cote (“ReSell”, “we”, “us”)  
 **Support contact:** resell21126@gmail.com
 
-ReSell is a local marketplace app that lets users post listings and message each other. We do **not** process payments, provide escrow, guarantee item quality, verify users, or handle shipping.
+ReSell is a local marketplace app that lets users post listings and message each other. We do **not** process payments, provide escrow, guarantee item quality, verify all users, or handle shipping.
 
 ## Quick links
 
@@ -20,21 +20,34 @@ ReSell is a local marketplace app that lets users post listings and message each
 ## Key safety + compliance points
 
 ### User-generated content
-Listings, photos, and messages are created by users. We may review and moderate content to keep the platform safe, including removing listings, restricting features, or disabling accounts.
+Listings, photos, screenshots attached to reports, usernames, and messages are user-generated content or user-submitted materials. ReSell may review and moderate content to keep the platform safe, including hiding listings, restricting features, preserving moderation records, or disabling accounts.
 
-If you see something unsafe, illegal, or abusive, contact us at **resell21126@gmail.com**.
+ReSell provides:
+- in-app **reporting** tools for listings and users
+- in-app **blocking** tools
+- published support contact information
+- account deletion initiated **in-app**
+
+If you see something unsafe, illegal, or abusive, use the in-app reporting tools or contact us at **resell21126@gmail.com**.
 
 ### Prohibited items and behavior
-ReSell is for lawful person-to-person resale only. Do not list or request anything illegal under **federal, state, or local law** (including controlled substances, weapons, stolen goods, counterfeit items, and explicit sexual content). Full details are in the [Community Guidelines](community-guidelines) and [Terms of Service](terms-of-service).
+ReSell is for lawful person-to-person resale only. Do not list or request anything illegal under **federal, state, or local law** or anything prohibited by our policies, including controlled substances, weapons, stolen goods, counterfeit items, explicit sexual content, threats, harassment, scams, or content involving child exploitation. Full details are in the [Community Guidelines](community-guidelines) and [Terms of Service](terms-of-service).
 
 ### Location privacy
-To show nearby listings, ReSell stores an approximate listing location (coordinates), but the app displays only a **City/State label** to other users.
+To show nearby listings, ReSell stores listing coordinates privately for distance calculations, but the app is designed to display only a **City/State label** to other users.
+
+### Account identity
+ReSell may assign each account:
+- a **username**
+- a permanent internal **ReSell User ID**
+
+These may be used for account management, safety review, support, and moderation.
 
 ### Age requirement
 ReSell is intended for **adults 18+**.
 
 ### Account deletion
-Users can delete their account **in-app**. When deleted, we remove your account data and user content from our systems as described on the [Account Deletion](account-deletion) page.
+Users can delete their account **in-app**. When deleted, ReSell removes or de-identifies core account content as described on the [Account Deletion](account-deletion) page. Certain limited safety, abuse-prevention, legal, and moderation records may be retained.
 
 ## Contact
 Questions, reports, or policy requests: **resell21126@gmail.com**

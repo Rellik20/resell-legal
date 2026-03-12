@@ -1,8 +1,8 @@
 # Account Deletion
 
-**Last updated:** February 13, 2026
+**Last updated:** March 12, 2026
 
-ReSell provides **in-app account deletion**. When you delete your account, we permanently delete your account and associated data as described below.
+ReSell provides **in-app account deletion**. When you delete your account, your account becomes inaccessible and ReSell removes, deletes, or de-identifies associated data as described below.
 
 If you have trouble deleting your account in the app, you can also request deletion by email.
 
@@ -15,7 +15,7 @@ If you have trouble deleting your account in the app, you can also request delet
 3. Tap **Delete Account**.
 4. Confirm the deletion when prompted.
 
-Once confirmed, your account deletion request is processed immediately.
+Once confirmed, your account deletion request is processed without requiring you to contact support first.
 
 ---
 
@@ -25,33 +25,29 @@ Email: **resell21126@gmail.com**
 Subject: **Account Deletion Request**
 
 Please include:
-- The **email address** used to create your ReSell account
-- A short message confirming you want the account deleted (example: “Please delete my ReSell account.”)
+- The **email address** used for your ReSell account
+- A short message confirming you want the account deleted
 
-We may ask for a minimal verification step to ensure the request is legitimate (for example, replying from the same email address used for the account).
+We may ask for a minimal verification step to ensure the request is legitimate.
 
 ---
 
-## What is deleted
+## What is deleted or removed from active use
 
-When your account is deleted, ReSell deletes (or de-identifies where appropriate) the following data associated with your account:
+When your account is deleted, ReSell removes, deletes, disables, and/or de-identifies core account content associated with your account.
 
 ### Account data
-- Your ReSell user account (email and account record)
-- Authentication-related records (such as password reset requests)
-- Pending signup verification records (if any)
+- Your ability to access the ReSell account
+- Authentication-related records, such as password reset requests
+- Pending signup verification records, if any
 
 ### Content you created
 - Your listings
-- Listing photos (deleted from our image hosting provider on a best-effort basis)
+- Listing photos, deleted from our image hosting provider on a best-effort basis
 
 ### Chat and messaging
 - Conversations you participated in
-- Messages you sent or received (as part of those conversations)
-
-### Safety & moderation records
-- Reports you submitted
-- Reports that specifically target your user account (if applicable)
+- Messages you sent or received, on a best-effort basis as part of conversation cleanup
 
 ---
 
@@ -59,8 +55,9 @@ When your account is deleted, ReSell deletes (or de-identifies where appropriate
 
 Even after deletion, limited information may remain in the following cases:
 
-- **Legal obligations:** If we are required to retain certain records to comply with law, resolve disputes, enforce agreements, or protect users and the platform.
-- **Backups and logs:** Residual copies may exist in encrypted backups or security logs for a limited period. These are not used to restore your account and are removed/overwritten on standard retention cycles.
+- **Safety and abuse prevention:** ReSell may retain limited moderation and safety records, including reports, report evidence, moderation snapshots, and related audit history where reasonably necessary for abuse prevention, platform integrity, or investigation.
+- **Legal obligations:** We may retain information required to comply with law, resolve disputes, enforce agreements, or protect users and the platform.
+- **Backups and logs:** Residual copies may exist in encrypted backups, logs, or system archives for a limited period and are removed or overwritten on standard retention cycles.
 
 ReSell does not sell personal data.
 
@@ -68,7 +65,8 @@ ReSell does not sell personal data.
 
 ## Important notes
 
-- **Deletion is permanent.** Once your account is deleted, it cannot be restored.
+- **Deletion is permanent.** Once completed, your account cannot be restored.
+- **Some limited moderation and legal records may remain** even after deletion, as described above.
 - **Public safety:** If you believe there is an urgent safety issue, contact local emergency services immediately.
 
 ---
