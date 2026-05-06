@@ -25,7 +25,7 @@ ReSell Marketplace does **not** process payments, provide escrow, guarantee item
 
 Listings, listing photos, profile information, profile photos, screenshots attached to reports, usernames, public profiles, favorites activity, and messages may involve user-generated content or user-submitted materials.
 
-ReSell Marketplace may review and moderate content when needed to keep the platform safe, including hiding listings, restricting features, preserving moderation records, reviewing reports, limiting messaging, or disabling accounts.
+ReSell Marketplace may review and moderate content when needed to keep the platform safe, including hiding listings, restricting features, preserving moderation records, reviewing reports, limiting messaging, or disabling accounts. We aim to review and act on safety-related reports as quickly as reasonably possible, generally within 24 hours when practical.
 
 ### In-app safety tools
 

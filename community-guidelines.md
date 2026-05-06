@@ -253,7 +253,7 @@ Actions may include:
 - Preserving relevant records, reports, evidence, messages, account snapshots, and moderation history
 - Cooperating with lawful requests from authorities where required
 
-Enforcement may be based on user reports, moderator review, automated signals, admin tools, or other safety checks. We may act without notice when urgent safety, fraud, legal, or abuse risks exist.
+Enforcement may be based on user reports, moderator review, automated signals, admin tools, or other safety checks. We aim to review and act on safety-related reports as quickly as reasonably possible, generally within 24 hours when practical. We may act without notice when urgent safety, fraud, legal, or abuse risks exist.
 
 ---
 

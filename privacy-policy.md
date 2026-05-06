@@ -207,7 +207,7 @@ ReSell Marketplace may review listings, public profiles, messages, reports, repo
 - Respond to legal requests or credible safety threats
 - Preserve safety, audit, and moderation history
 
-We do not promise proactive review of all content, but we reserve the right to review and moderate content when needed for safety, integrity, compliance, or service operation.
+We do not promise proactive review of all content, but we reserve the right to review and moderate content when needed for safety, integrity, compliance, or service operation. We aim to review and act on safety-related reports as quickly as reasonably possible, generally within 24 hours when practical.
 
 ## 6. Data retention
 

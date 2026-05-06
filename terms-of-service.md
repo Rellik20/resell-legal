@@ -273,7 +273,7 @@ We may, at any time and in our sole discretion:
 - Cooperate with lawful requests from authorities where required
 - Take action without notice when urgent safety, legal, fraud, or abuse risks exist
 
-We are not obligated to monitor all content, but we may review listings, messages, public profiles, reports, evidence images, and related account activity when necessary for safety, abuse prevention, policy enforcement, support, and legal compliance.
+We are not obligated to monitor all content, but we may review listings, messages, public profiles, reports, evidence images, and related account activity when necessary for safety, abuse prevention, policy enforcement, support, and legal compliance. We aim to review and act on safety-related reports as quickly as reasonably possible, generally within 24 hours when practical.
 
 ## 16. Image storage and third-party services
 
